@@ -7,7 +7,7 @@
 
 ---
 
-I'm a Data Engineer at [Fandom](https://fandom.com), focusing on testing data pipelines. I do a lot of [blogging](https://mikulskibartosz.name) about data craft (data engineering + software craft), and I speak [speak at conferences](https://www.mikulskibartosz.name/speaker). I can [help](https://www.mikulskibartosz.name/consulting) you with testing data pipelines, setting up monitoring, and optimizing your Apache Spark code.
+I'm a Data Engineer focusing on building trustworthy data pipelines. I do a lot of [blogging](https://mikulskibartosz.name) about data craft (data engineering + software craft), and I speak [speak at conferences](https://www.mikulskibartosz.name/speaker). I can [help](https://www.mikulskibartosz.name/coaching) you with testing data pipelines, setting up monitoring, and optimizing your Apache Spark code.
 
 - 🔭 I’m currently working on PySpark-Check - a library for (big) data quality validation https://github.com/mikulskibartosz/pyspark-check
 - 📫 How to reach me: [@mikulskibartosz](https://twitter.com/mikulskibartosz)
